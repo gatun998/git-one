@@ -1,1 +1,1 @@
-console.log('feature d');
+console.log('feature-d');
